@@ -30,7 +30,7 @@ A segurança geral do datacenter é crucial, abrangendo medidas de prevenção e
 
 Em resumo, a arquitetura e topologia, o sistema de distribuição de energia, a segurança física e lógica, entre outros aspectos, são requisitos obrigatórios para um datacenter.
 
-##Qual o motivo da visita?
+## Qual o motivo da visita?
 Visitar um datacenter é muito enriquecedor no sentido de que é a concretização física de coisas que comumente não temos contato por estar lidando apenas com a camada de aplicação. 
 
 Dessa forma, é possível observar como uma Infraestrutura de TI funciona na prática, entender a conexão entre os ativos, aprender mais sobre a camada física, observar o gerenciamento de recursos, etc.
@@ -39,7 +39,8 @@ Realizei uma visita ao datacenter do MPRN, que é um container externo à sede d
 organização espacial e posicionamento estratégico dos equipamentos. Mesmo num espaço tão pequeno, tudo é extremamente bem organizado para otimizar o fluxo de ar e 
 acessibilidade para manutenção (que são feitas regularmente). Pude constatar também a importância dos sistemas de refrigeração e energia, 
 elementos cruciais em qualquer datacenter, ao observar o funcionamento dos equipamentos de climatização e os sistemas de backup de energia do MPRN.
-Além disso, é claro, a comunicação entre os dispositivos e a forma com que as aplicações vão de fato para a internet.
+Além disso, é claro, a comunicação entre os dispositivos e a forma com que as aplicações vão de fato para a internet. Além disso, todas as boas práticas citadas em
+"introdução" são seguidas lá.
 
 ## Considerações finais
 O que foi aprendido na visita?
